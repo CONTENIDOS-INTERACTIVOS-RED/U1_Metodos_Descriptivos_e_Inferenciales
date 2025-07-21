@@ -110,7 +110,7 @@ export default {
         width: 100%
         color: #fff !important
     .icon
-      background-color: $color-sistema-e
+      background-color: #496406
       padding: 0px 20px
       color: #fff
       display: flex
@@ -154,7 +154,7 @@ export default {
   .icon
     transition: all 0.25s ease-in-out
     // background-color: #083E61 !important
-    background-color: darken($color-acento-botones, 30% ) !important
+    background-color: #496406 !important
   &:hover
     .icon
       transform: scale(1.06)
