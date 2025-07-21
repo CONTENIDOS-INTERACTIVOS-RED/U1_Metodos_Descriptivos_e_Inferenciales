@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="81" viewBox="0 0 90 81">
+  <g id="icons8-microsoft-excel-2019" transform="translate(-4 -6)">
+    <path id="Trazado_1052303" data-name="Trazado 1052303" d="M47.75,6H17.924A3.925,3.925,0,0,0,14,9.924V26.257H47.75Z" transform="translate(12.5)" fill="#169154"/>
+    <path id="Trazado_1052304" data-name="Trazado 1052304" d="M14,33.054v16.2a3.924,3.924,0,0,0,3.922,3.924H47.75V33.054Z" transform="translate(12.5 33.817)" fill="#18482a"/>
+    <path id="Trazado_1052305" data-name="Trazado 1052305" d="M14,15H47.75V35.257H14Z" transform="translate(12.5 11.254)" fill="#0c8045"/>
+    <path id="Trazado_1052306" data-name="Trazado 1052306" d="M14,24.005H47.75V44.368H14Z" transform="translate(12.5 22.506)" fill="#17472a"/>
+    <g id="Grupo_1207592" data-name="Grupo 1207592" transform="translate(60.25 6)">
+      <path id="Trazado_1052307" data-name="Trazado 1052307" d="M58.826,6H29V26.257H62.75V9.924A3.925,3.925,0,0,0,58.826,6Z" transform="translate(-29 -6)" fill="#29c27f"/>
+      <path id="Trazado_1052308" data-name="Trazado 1052308" d="M29,33.054V53.182H58.828a3.924,3.924,0,0,0,3.922-3.922v-16.2H29Z" transform="translate(-29 27.817)" fill="#27663f"/>
+      <path id="Trazado_1052309" data-name="Trazado 1052309" d="M29,15H62.75V35.257H29Z" transform="translate(-29 5.254)" fill="#19ac65"/>
+      <path id="Trazado_1052310" data-name="Trazado 1052310" d="M29,24.005H62.75V44.368H29Z" transform="translate(-29 16.506)" fill="#129652"/>
+    </g>
+    <path id="Trazado_1052311" data-name="Trazado 1052311" d="M45.218,59H7.782A3.783,3.783,0,0,1,4,55.218V17.782A3.783,3.783,0,0,1,7.782,14H45.218A3.783,3.783,0,0,1,49,17.782V55.218A3.783,3.783,0,0,1,45.218,59Z" transform="translate(0 10)" fill="#0c7238"/>
+    <path id="Trazado_1052312" data-name="Trazado 1052312" d="M10.158,19h5.368l4.356,8.446L24.486,19H29.5l-6.91,11.25L29.659,41.5h-5.29l-4.747-8.842L14.894,41.5H9.526L16.71,30.209Z" transform="translate(6.908 16.25)" fill="#fff"/>
+  </g>
+</svg>
